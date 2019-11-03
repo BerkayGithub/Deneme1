@@ -21,6 +21,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Appdeneme/templates/Page2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         <entry file="file://$PROJECT_DIR$/Appdeneme/templates/page1.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -51,9 +55,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Appdeneme/templates/Page2.html" />
         <option value="$PROJECT_DIR$/Appdeneme/templates/Page1.html" />
         <option value="$PROJECT_DIR$/Appdeneme/templates/page1.html" />
+        <option value="$PROJECT_DIR$/Appdeneme/templates/Page2.html" />
       </list>
     </option>
   </component>
@@ -68,7 +72,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +94,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -146,7 +150,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Appdeneme/templates/Page2.html" />
     <entry file="file://$PROJECT_DIR$/DenemeProject/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -163,6 +166,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DenemeProject/settings.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Appdeneme/templates/Page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
